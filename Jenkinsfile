@@ -8,3 +8,4 @@ pipeline {
              sh 'echo "Build completed"'
           }  
         }
+    }}
